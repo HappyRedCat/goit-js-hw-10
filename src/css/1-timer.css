@@ -1,5 +1,5 @@
 .container {
-  margin-left: 156px;
+  margin-left: 50%;
   margin-top: 36px;
   width: 355px;
   display: flex;
@@ -53,8 +53,8 @@
   align-items: center;
   gap: 10px;
   border-radius: 8px;
-  background: #cfcfcf;
-  color: #989898;
+  background: #4e75ff;
+  color: #fce2e2;
   font-size: 16px;
   font-weight: 500;
   line-height: 1.5;
